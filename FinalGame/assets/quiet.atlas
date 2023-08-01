@@ -1,0 +1,27 @@
+
+quiet.png
+size: 128, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+quiet
+  rotate: false
+  xy: 2, 2
+  size: 75, 140
+  orig: 75, 140
+  offset: 0, 0
+  index: -1
+quiet
+  rotate: false
+  xy: 2, 144
+  size: 76, 140
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+quiet
+  rotate: false
+  xy: 2, 286
+  size: 76, 140
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
